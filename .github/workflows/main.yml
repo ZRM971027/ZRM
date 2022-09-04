@@ -1,4 +1,4 @@
-name: Cony
+name: CAT
 on:
   workflow_dispatch:
   schedule: 
